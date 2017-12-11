@@ -1,0 +1,12 @@
+---
+title: "README"
+author: "Paul Oldham"
+date: "11/12/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+A folder containing public application forms. No forms that are classified as confidentia should be placed in this repository.
